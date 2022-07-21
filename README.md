@@ -4,10 +4,10 @@
 
 ------------
 ## Team members
-- Abdulrahman Ragab Kabil
-- Adhm Magdy
-- Esraa Ragab
-- Omar Hany
+- [Abdulrahman Kabil](https://www.github.com/Abdulrahman-Kabil-developer)
+- [Adham Magdy](https://www.github.com/AdhamMagdyA)
+- [Esraa Ragab](https://github.com/EsraaRgb)
+- [Omar Hany](https://github.com/omarhany555)
 - Sara Alaa
 
 ------------
@@ -45,7 +45,7 @@
 ![Screenshot 2022-05-28 175002](https://user-images.githubusercontent.com/63946776/170832822-4a18c937-1ec7-4a6f-80be-6ffe2761c799.png)
 
 
-##### 8. process Cupe in your **data analysis server** 
+##### 8. process Cube in your **data analysis server** 
 ##### 9. open your data analysis server you'll find Cupe and can create MDX queries 
 
 ![Screenshot 2022-05-28 175638](https://user-images.githubusercontent.com/63946776/170833062-4a29e7e5-5bb9-49cc-83fc-92290fe54608.png)
